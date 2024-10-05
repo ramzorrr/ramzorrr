@@ -47,15 +47,6 @@
 
 ---
 
-### 🌟 Featured Projects:
-
-<p align="center">
-  <a href="https://github.com/ramzorrr/[project-name]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ramzorrr&repo=[project-name]&theme=radical" />
-  </a>
-</p>
-
----
 
 ### 📫 Let's connect!
 <p align="center">
