@@ -50,7 +50,10 @@
 
 ### 📫 Let's connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/rami-knaappila-367302129/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rami.knaappila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://x.com/ramxywell"><img src="https://img.shields.io/twitter/follow/ramxywell?style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://www.linkedin.com/in/rami-knaappila-367302129/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" style="height: 28px;" /></a>
+  <a href="mailto:rami.knaappila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px;" /></a>
+  <a href="https://x.com/ramxywell"><img src="https://img.shields.io/twitter/follow/Ramxywell" alt="Twitter Follow" style="height: 28px;" /></a>
+  <a href="https://discord.com/users/ramzor_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="height: 28px;" /></a>
 </p>
+
+
