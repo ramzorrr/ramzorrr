@@ -51,6 +51,6 @@
 ### 📫 Let's connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/rami-knaappila-367302129/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rami.knaappila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:rami.knaappila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://x.com/ramxywell"><img src="https://img.shields.io/twitter/follow/ramxywell?style=for-the-badge" alt="Twitter Follow" /></a>
 </p>
