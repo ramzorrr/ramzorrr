@@ -10,8 +10,9 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on my first ever real-life IT project, which is **a React Native App for Kesko's Warehouse Workers**
-- 🌱 I’m learning and using **React Native, TypeScript, Node.js, Android Studio, and am very interested in IT logistics systems** to build my projects.
+- 🔭 I successfully developed and delivered a React Native application for Kesko's warehouse workers as part of my internship. The app is designed to improve daily routines and efficiency by acting as a performance counter tailored to warehouse operations.
+This real-life project was a significant milestone in my IT career, marking the successful completion of my internship, for which I received an official certification **by Kesko**.
+- 🌱 I’m learning and using **React Native, TypeScript, Node.js, Android Studio etc.** to build my projects.
 - 👯 I’m looking to collaborate on **anything IT related for gaining more experience**
 - 💬 We can discuss **how to find an IT job in Finland**, especially in the current job market, and share tips or experiences.
 - 📫 How to reach me: **rami.knaappila@gmail.com**
