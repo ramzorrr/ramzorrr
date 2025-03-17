@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Rami</h1>
-<h3 align="center">IT Student & Aspiring Developer from Finland 🇫🇮</h3>
+<h3 align="center">IT Student from Finland 🇫🇮</h3>
 
 <!-- Social Links -->
 <p align="center">
@@ -18,15 +18,14 @@ I'm a passionate IT student who loves turning challenges into innovative solutio
 - 🔭 **Current Focus:** Expanding my expertise in React Native, TypeScript, Node.js, and Android Studio.
 - 👯 **Collaboration:** Open to collaborating on IT projects and sharing insights on the Finnish job market.
 - 📫 **Contact:** [rami.knaappila@gmail.com](mailto:rami.knaappila@gmail.com)
-- ⚡ **Fun Fact:** I’m an avid explorer of castles and cuisines!
+- ⚡ **Fun Fact:** I enjoy playing World of Warcraft and traveling to try different cuisines!
 
 ---
 
 <!-- Featured Projects -->
 ### 🚀 Featured Projects
 > _Pin your key projects here using GitHub’s pinned repositories feature or list them below:_
-- **Project Name:** [Repository Link](https://github.com/ramzorrr/project-name) – A brief description of what the project does.
-- **Another Project:** [Repository Link](https://github.com/ramzorrr/another-project) – A quick overview of its purpose.
+- **Polku app for Kesko:** [Repository Link](https://github.com/ramzorrr/polku) – Polku Web is a web application built with React and Vite. This project is designed to help users track their goals and performance over specific periods.
 
 ---
 
