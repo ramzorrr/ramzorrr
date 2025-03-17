@@ -24,7 +24,6 @@ I'm a passionate IT student who loves turning challenges into innovative solutio
 
 <!-- Featured Projects -->
 ### 🚀 Featured Projects
-> _Pin your key projects here using GitHub’s pinned repositories feature or list them below:_
 - **Polku app for Kesko:** [Repository Link](https://github.com/ramzorrr/polku) – Polku Web is a web application built with React and Vite. This project is designed to help users track their goals and performance over specific periods.
 
 ---
