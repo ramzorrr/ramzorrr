@@ -1,6 +1,8 @@
+<!-- Header -->
 <h1 align="center">Hi there 👋, I'm Rami</h1>
-<h3 align="center">A passionate IT student from Finland 🇫🇮</h3>
+<h3 align="center">IT Student & Aspiring Developer from Finland 🇫🇮</h3>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://github.com/ramzorrr"><img src="https://img.shields.io/github/followers/ramzorrr?label=Follow&style=social" alt="GitHub Followers" /></a>
   <a href="https://x.com/ramxywell"><img src="https://img.shields.io/twitter/follow/ramxywell?style=social" alt="X (formerly Twitter) Follow" /></a>
@@ -9,18 +11,27 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 🔭 I successfully developed and delivered a React Native application for Kesko's warehouse workers as part of my internship. The app is designed to improve daily routines and efficiency by acting as a performance counter tailored to warehouse operations.
-This real-life project was a significant milestone in my IT career, marking the successful completion of my internship, for which I received an official certification **by Kesko**.
-- 🌱 I’m learning and using **React Native, TypeScript, Node.js, Android Studio etc.** to build my projects.
-- 👯 I’m looking to collaborate on **anything IT related for gaining more experience**
-- 💬 We can discuss **how to find an IT job in Finland**, especially in the current job market, and share tips or experiences.
-- 📫 How to reach me: **rami.knaappila@gmail.com**
-- ⚡ Fun fact: **I’m a fan of castles and a wide variety of foods!**
+<!-- About Me -->
+### 👨‍💻 About Me
+I'm a passionate IT student who loves turning challenges into innovative solutions. I developed a React Native app for Kesko's warehouse workers, boosting efficiency and earning an official certification **by Kesko** during my internship.
+
+- 🔭 **Current Focus:** Expanding my expertise in React Native, TypeScript, Node.js, and Android Studio.
+- 👯 **Collaboration:** Open to collaborating on IT projects and sharing insights on the Finnish job market.
+- 📫 **Contact:** [rami.knaappila@gmail.com](mailto:rami.knaappila@gmail.com)
+- ⚡ **Fun Fact:** I’m an avid explorer of castles and cuisines!
 
 ---
 
-### 🛠️ Technologies & Tools:
+<!-- Featured Projects -->
+### 🚀 Featured Projects
+> _Pin your key projects here using GitHub’s pinned repositories feature or list them below:_
+- **Project Name:** [Repository Link](https://github.com/ramzorrr/project-name) – A brief description of what the project does.
+- **Another Project:** [Repository Link](https://github.com/ramzorrr/another-project) – A quick overview of its purpose.
+
+---
+
+<!-- Technologies & Tools -->
+### 🛠️ Technologies & Tools
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -45,10 +56,10 @@ This real-life project was a significant milestone in my IT career, marking the 
   </a>
 </p>
 
-
 ---
 
-### 🔥 My Stats:
+<!-- GitHub Stats -->
+### 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramzorrr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramzorrr&theme=radical" alt="GitHub Streak" />
@@ -56,20 +67,19 @@ This real-life project was a significant milestone in my IT career, marking the 
 
 ---
 
-### 📈 My Contributions:
+<!-- Contributions -->
+### 📈 Contributions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzorrr&theme=radical" alt="Contribution Stats" />
 </p>
 
 ---
 
-
-### 📫 Let's connect!
+<!-- Connect -->
+### 📫 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/rami-knaappila-367302129/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" style="height: 28px;" /></a>
   <a href="mailto:rami.knaappila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px;" /></a>
   <a href="https://x.com/ramxywell"><img src="https://img.shields.io/twitter/follow/Ramxywell" alt="Twitter Follow" style="height: 28px;" /></a>
   <a href="https://discord.com/users/ramzor_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="height: 28px;" /></a>
 </p>
-
-
