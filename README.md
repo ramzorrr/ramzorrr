@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rami</h1>
-<h3 align="center">A passionate IT student from 🇫🇮 Finland 🇫🇮</h3>
+<h3 align="center">A passionate IT student from Finland 🇫🇮</h3>
 
 <p align="center">
   <a href="https://github.com/ramzorrr"><img src="https://img.shields.io/github/followers/ramzorrr?label=Follow&style=social" alt="GitHub Followers" /></a>
